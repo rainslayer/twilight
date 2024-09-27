@@ -1,0 +1,1 @@
+type ValidatorReturnType = { valid: boolean; message: string };
